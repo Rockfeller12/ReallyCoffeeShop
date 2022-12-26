@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.card{
+    margin-top: 60px;
+}
+div{
+    font-family: Arial Black;
+}
+.CoffeeClass{
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}

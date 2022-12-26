@@ -1,0 +1,13 @@
+.containerProf{
+    display: inline-flex;
+}
+.header{
+    text-align: center;
+    border: 1px solid black;
+}
+h3{
+    margin: 0;
+}
+.container{
+    border: 1px solid black;
+}
